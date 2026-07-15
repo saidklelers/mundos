@@ -1,0 +1,4 @@
+*.db binary
+*.fwl binary
+*.db -text
+*.fwl -text
