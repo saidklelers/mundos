@@ -1,13 +1,10 @@
 {
   "world": "newworld",
-  "lock": {
-    "holder": "said",
-    "since": "2026-07-15T18:03:36+00:00"
-  },
+  "lock": null,
   "last_upload": {
     "by": "said",
-    "at": "2026-07-15T18:03:10+00:00",
+    "at": "2026-07-15T22:00:32+00:00",
     "sha256": "28b574bcc290e2eb9975cf3fdce3a95bd27a3a71c85727eb53d1fbb8aa1d0a23",
-    "note": "realice varias cosas en mi casa etc"
+    "note": "51465"
   }
 }
